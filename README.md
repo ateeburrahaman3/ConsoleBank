@@ -8,7 +8,7 @@ A modular banking application demonstrating **Object-Oriented Programming**, **J
 
 <br>
 
-![Java](https://img.shields.io/badge/Java-17+-orange?style=for-the-badge&logo=openjdk)
+![Java](https://img.shields.io/badge/Java-26-orange?style=for-the-badge&logo=openjdk)
 ![OOP](https://img.shields.io/badge/OOP-Implemented-blue?style=for-the-badge)
 ![Collections](https://img.shields.io/badge/Collections-Framework-success?style=for-the-badge)
 ![Streams](https://img.shields.io/badge/Streams-API-red?style=for-the-badge)
@@ -328,11 +328,11 @@ Feel free to fork this repository and submit a Pull Request.
 
 💻 Aspiring Java Backend Developer
 
-📧 Email: YOUR_EMAIL
+📧 Email: ateeburrahaman3@gmai.com
 
-🔗 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+🔗 LinkedIn: https://www.linkedin.com/in/ateeb-ur-rahaman/
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: https://github.com/ateeburrahaman3
 
 ---
 
