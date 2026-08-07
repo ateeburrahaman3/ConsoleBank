@@ -328,7 +328,7 @@ Feel free to fork this repository and submit a Pull Request.
 
 💻 Aspiring Java Backend Developer
 
-📧 Email: ateeburrahaman3@gmai.com
+📧 Email: ateeburrahaman3@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/ateeb-ur-rahaman/
 
